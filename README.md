@@ -10,6 +10,7 @@ This repository is about the programs which are essential for System Software su
 3.	Lexical Analyzer
 4.	Reading a file and printing its content on console/terminal.
 5.	Reading content from console/terminal and writing that content in a new file.
+6.	Copying content of one file to another file.
 
 All this files will be named as "program 1" "program 2" and so on. Make sure you read the comments to understand the topic in that particular file.
 All the programs are written in C language. 
